@@ -5,6 +5,7 @@ To store health related blogs and articles link.
 * [Stroke | Mayoclinic](https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113)
 * [Brain tumours](https://www.nhs.uk/conditions/brain-tumours/)
 * [Is a Certain Type of Headache a Sign of a Brain Tumor?](https://www.healthline.com/health/brain-tumor-headaches-is-my-headache-a-sign-of-a-brain-tumor)
+* [Pain in the Back of the Head](https://www.healthline.com/health/pain-in-back-of-head)
 
 ## Liver
 * [12 Foods to Help Fatty Liver Reversal](https://www.healthline.com/health/fatty-liver-diet#_noHeaderPrefixedContent)
