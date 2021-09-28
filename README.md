@@ -4,6 +4,7 @@ To store health related blogs and articles link.
 ## Brain
 * [Stroke | Mayoclinic](https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113)
 * [Brain tumours](https://www.nhs.uk/conditions/brain-tumours/)
+* [Is a Certain Type of Headache a Sign of a Brain Tumor?](https://www.healthline.com/health/brain-tumor-headaches-is-my-headache-a-sign-of-a-brain-tumor)
 
 ## Liver
 * [12 Foods to Help Fatty Liver Reversal](https://www.healthline.com/health/fatty-liver-diet#_noHeaderPrefixedContent)
@@ -13,6 +14,9 @@ To store health related blogs and articles link.
 
 ## Diabetes
 * [Diabetes Symptoms](https://www.cdc.gov/diabetes/basics/symptoms.html)
+
+## Nausea
+* [Everything You Should Know About Nausea](https://www.healthline.com/health/nausea)
 
 ## Foods and Drinks
 * [Is coffee good or bad for your health?](https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/)
