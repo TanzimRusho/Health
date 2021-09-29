@@ -19,6 +19,7 @@ To store health related blogs and articles link.
 ## Nausea
 * [Everything You Should Know About Nausea](https://www.healthline.com/health/nausea)
 * [What's causing my headache and nausea?](https://www.healthline.com/health/headache-and-nausea)
+* [What to know about fatigue and nausea](https://www.medicalnewstoday.com/articles/8877)
 
 ## Foods and Drinks
 * [Is coffee good or bad for your health?](https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/)
