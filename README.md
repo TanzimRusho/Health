@@ -29,6 +29,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Everything You Should Know About Nausea](https://www.healthline.com/health/nausea)
 * [What's causing my headache and nausea?](https://www.healthline.com/health/headache-and-nausea)
 * [What to know about fatigue and nausea](https://www.medicalnewstoday.com/articles/8877)
+* [What causes nausea? 12 common causes](https://www.medicalnewstoday.com/articles/what-causes-nausea)
 
 ## Radiation
 * [Are bluetooth headphones safe?](https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe)
