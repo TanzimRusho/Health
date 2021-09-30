@@ -31,6 +31,9 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [What to know about fatigue and nausea](https://www.medicalnewstoday.com/articles/8877)
 * [What causes nausea? 12 common causes](https://www.medicalnewstoday.com/articles/what-causes-nausea)
 
+## Vertigo
+* [How Long Does Vertigo Last?](https://www.healthline.com/health/how-long-does-vertigo-last#when-to-see-your-doctor)
+
 ## Radiation
 * [Are bluetooth headphones safe?](https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe)
 
