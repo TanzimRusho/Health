@@ -32,12 +32,13 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [What to know about fatigue and nausea](https://www.medicalnewstoday.com/articles/8877)
 * [What causes nausea? 12 common causes](https://www.medicalnewstoday.com/articles/what-causes-nausea)
 
-## Vertigo
-* [How Long Does Vertigo Last?](https://www.healthline.com/health/how-long-does-vertigo-last#when-to-see-your-doctor)
-
 ## Radiation
 * [Are bluetooth headphones safe?](https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe)
 
 ## Sleep
 * [Sleep Problem | Dr. Saklayen Russel](https://youtu.be/06PsIqtude0)
 * [Sleep Apnea](https://symptoms.webmd.com/symptomcheckercondition?condition=091e9c5e808e7adc&bpid%5B0%5D=66&sid%5B0%5D=81&bpid%5B1%5D=66&sid%5B1%5D=98&bpid%5B2%5D=2&sid%5B2%5D=115&bpid%5B3%5D=66&sid%5B3%5D=124)
+
+## Vertigo
+* [How Long Does Vertigo Last?](https://www.healthline.com/health/how-long-does-vertigo-last#when-to-see-your-doctor)
+* [Can Vertigo Be a Symptom of Dehydration?](https://www.healthline.com/health/can-dehydration-cause-vertigo#dehydration-and-vertigo)
