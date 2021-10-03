@@ -8,6 +8,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Pain in the Back of the Head](https://www.healthline.com/health/pain-in-back-of-head)
 * [Stroke Before Age 45](https://www.sutterhealth.org/health/heart/stroke-before-age-forty-five#:~:text=What%20Causes%20Stroke%20in%20Younger,strokes%20in%20young%20people%2C%20however.)
 * [Can You Recognize Symptoms of Minor Stroke?](https://www.webmd.com/stroke/news/20100415/can-you-recognize-symptoms-of-minor-stroke)
+* [Evaluation of a First-Time Seizure](https://www.hopkinsmedicine.org/health/conditions-and-diseases/epilepsy/evaluation-of-a-firsttime-seizure)
 
 ## COVID-19
 * [Micronutrients to fight the Coronavirus Pandemic](https://www.youtube.com/watch?v=GhiJumkXsDU)
