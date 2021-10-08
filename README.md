@@ -17,6 +17,9 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 ## Dengue
 * [Dengue](https://www.nhs.uk/conditions/dengue/)
 
+## Dental
+* [Home Remedies for Toothache](https://www.healthline.com/health/dental-and-oral-health/home-remedies-for-toothache)
+
 ## Diabetes
 * [Diabetes Symptoms](https://www.cdc.gov/diabetes/basics/symptoms.html)
 
