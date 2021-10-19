@@ -30,6 +30,9 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Is coffee good or bad for your health?](https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/)
 * [Coffee: Uses and Side-effects](https://www.rxlist.com/coffee/supplements.htm)
 
+## Hormones
+* [Adrenaline Rush: Everything You Should Know](https://www.healthline.com/health/adrenaline-rush#causes)
+
 ## Liver
 * [12 Foods to Help Fatty Liver Reversal](https://www.healthline.com/health/fatty-liver-diet#_noHeaderPrefixedContent)
 
