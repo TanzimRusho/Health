@@ -14,6 +14,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Evaluation of a First-Time Seizure](https://www.hopkinsmedicine.org/health/conditions-and-diseases/epilepsy/evaluation-of-a-firsttime-seizure)
 
 ## COVID-19
+* [লাইভ করোনা ঝুঁকি টেস্ট](https://livecoronatest.com/)
 * [Micronutrients to fight the Coronavirus Pandemic](https://www.youtube.com/watch?v=GhiJumkXsDU)
 * [কোন ভ্যাক্সিন বেশি ভালো?](https://m.youtube.com/watch?v=50M7CrxJCgg)
 
