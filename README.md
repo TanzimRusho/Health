@@ -23,6 +23,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 
 ## Dental
 * [Home Remedies for Toothache](https://www.healthline.com/health/dental-and-oral-health/home-remedies-for-toothache)
+* [WHAT DOES A TOOTH EXTRACTION FEEL LIKE?](https://www.parkfieldfamilydental.com/blog/2020/september/what-does-a-tooth-extraction-feel-like-/)
 
 ## Diabetes
 * [Diabetes Symptoms](https://www.cdc.gov/diabetes/basics/symptoms.html)
