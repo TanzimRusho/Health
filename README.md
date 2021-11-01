@@ -40,6 +40,8 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 
 ## Medications
 * [Filmet Tablet](https://medex.com.bd/brands/10099/filmet-400mg?ref=1)
+* [Prescription Painkiller Overdoses](https://www.cdc.gov/vitalsigns/prescriptionpainkilleroverdoses/index.html)
+* [OTC Pain Relief: Beware of Double-Dosing](https://www.cdc.gov/vitalsigns/prescriptionpainkilleroverdoses/index.html)
 
 ## Nausea
 * [Everything You Should Know About Nausea](https://www.healthline.com/health/nausea)
