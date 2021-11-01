@@ -38,6 +38,9 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 ## Liver
 * [12 Foods to Help Fatty Liver Reversal](https://www.healthline.com/health/fatty-liver-diet#_noHeaderPrefixedContent)
 
+## Medications
+* [Filmet Tablet](https://medex.com.bd/brands/10099/filmet-400mg?ref=1)
+
 ## Nausea
 * [Everything You Should Know About Nausea](https://www.healthline.com/health/nausea)
 * [What's causing my headache and nausea?](https://www.healthline.com/health/headache-and-nausea)
