@@ -33,6 +33,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Coffee: Uses and Side-effects](https://www.rxlist.com/coffee/supplements.htm)
 
 ## Hiccups
+* [Why Do I Hiccup?](https://www.webmd.com/digestive-disorders/why-do-i-hiccup)
 * [Hiccups Remedies](https://www.nhs.uk/conditions/hiccups/)
 
 ## Hormones
