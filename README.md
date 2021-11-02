@@ -4,6 +4,10 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 ## Ankle
 * [Ankle Pain](https://my.clevelandclinic.org/health/symptoms/15295-ankle-pain)
 
+## Blood
+* [Does Blood Type Affect Marriage Compatibility?](https://www.healthline.com/health/blood-group-compatibility-for-marriage#blood-compatibility-and-pregnancy)
+* [Best blood group compatibility for marriage](https://www.tampabaynewswire.com/2019/04/17/best-blood-group-compatibility-for-marriage-76963)
+
 ## Brain
 * [Stroke | Mayoclinic](https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113)
 * [Brain tumours](https://www.nhs.uk/conditions/brain-tumours/)
