@@ -39,6 +39,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 ## Hiccups
 * [Why Do I Hiccup?](https://www.webmd.com/digestive-disorders/why-do-i-hiccup)
 * [Hiccups Remedies](https://www.nhs.uk/conditions/hiccups/)
+* [What are your hiccups telling you?](https://www.sleeprenewal.co.za/sleep-tips/what-are-your-hiccups-telling-you)
 
 ## Hormones
 * [Adrenaline Rush: Everything You Should Know](https://www.healthline.com/health/adrenaline-rush#causes)
