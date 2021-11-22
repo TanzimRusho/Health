@@ -17,6 +17,11 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Can You Recognize Symptoms of Minor Stroke?](https://www.webmd.com/stroke/news/20100415/can-you-recognize-symptoms-of-minor-stroke)
 * [Evaluation of a First-Time Seizure](https://www.hopkinsmedicine.org/health/conditions-and-diseases/epilepsy/evaluation-of-a-firsttime-seizure)
 
+## Caugh
+* [Water after syrup](https://www.practo.com/consult/water-after-syrup-is-it-okay-to-drink-water-after-consuming-any-medicinal-syrup-nbsp-nbsp-nbsp-nbsp-nbsp-nbsp/q)
+* [Cough Syrup Liquid - Uses, Side Effects, and More](https://www.webmd.com/drugs/2/drug-54352-96/cough-syrup-oral/guaifenesin-dextromethorphan-decongestant-oral/details)
+* [Is it okay to drink water after drinking a cough syrup?](https://www.quora.com/Is-it-okay-to-drink-water-after-drinking-a-cough-syrup)
+
 ## COVID-19
 * [লাইভ করোনা ঝুঁকি টেস্ট](https://livecoronatest.com/)
 * [Micronutrients to fight the Coronavirus Pandemic](https://www.youtube.com/watch?v=GhiJumkXsDU)
