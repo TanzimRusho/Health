@@ -63,6 +63,9 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [What to know about fatigue and nausea](https://www.medicalnewstoday.com/articles/8877)
 * [What causes nausea? 12 common causes](https://www.medicalnewstoday.com/articles/what-causes-nausea)
 
+## Piles
+* [পাইলসের অপারেশন কখন করা লাগবে](https://www.jugantor.com/lifestyle/382546/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%AC%E0%A7%87)
+
 ## Radiation
 * [Are bluetooth headphones safe?](https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe)
 
