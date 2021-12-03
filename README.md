@@ -73,6 +73,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [কাটাছেঁড়া ছাড়াই পাইলস অপারেশন](https://www.jugantor.com/todays-paper/news/145756/%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%9B%E0%A7%87%E0%A6%81%E0%A7%9C%E0%A6%BE-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A6%B8-%E0%A6%85%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8)
 * [Prof. Dr. Md. Abu Taher - Contacts](https://www.doctorbangladesh.com/prof-dr-md-abu-taher/)
 * [পাইলস বিশেষজ্ঞ ডাক্তার ঢাকা – নাম, নাম্বার, চেম্বারসহ](https://revieweditorclub.xyz/%e0%a6%aa%e0%a6%be%e0%a6%87%e0%a6%b2%e0%a6%b8-%e0%a6%ac%e0%a6%bf%e0%a6%b6%e0%a7%87%e0%a6%b7%e0%a6%9c%e0%a7%8d%e0%a6%9e-%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%b0-%e0%a6%a2/)
+* [Piles (haemorrhoids)](https://www.nhs.uk/conditions/piles-haemorrhoids/)
 
 ## Radiation
 * [Are bluetooth headphones safe?](https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe)
