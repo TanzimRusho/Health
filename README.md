@@ -44,6 +44,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 ## Foods and Drinks
 * [Is coffee good or bad for your health?](https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/)
 * [Coffee: Uses and Side-effects](https://www.rxlist.com/coffee/supplements.htm)
+* [How to get more fibre into your diet](https://www.nhs.uk/live-well/eat-well/how-to-get-more-fibre-into-your-diet/)
 
 ## Hiccups
 * [Why Do I Hiccup?](https://www.webmd.com/digestive-disorders/why-do-i-hiccup)
