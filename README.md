@@ -45,6 +45,7 @@ To store health related blogs and articles link. Topics are arranged lexicograph
 * [Is coffee good or bad for your health?](https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/)
 * [Coffee: Uses and Side-effects](https://www.rxlist.com/coffee/supplements.htm)
 * [How to get more fibre into your diet](https://www.nhs.uk/live-well/eat-well/how-to-get-more-fibre-into-your-diet/)
+* [What to Do If You Get Food Stuck in Your Throat](https://www.healthline.com/health/food-stuck-in-throat#takeaway-and-prevention)
 
 ## Hiccups
 * [Why Do I Hiccup?](https://www.webmd.com/digestive-disorders/why-do-i-hiccup)
